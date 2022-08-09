@@ -190,6 +190,9 @@ table .p1{
 table .span{
 	color: #cfb995;
 }
+table .span:hover{
+	color: green;
+}
 th, td {
   padding: 0.5rem;
 }
@@ -197,7 +200,7 @@ table, th, td a{
 	text-decoration: none;
 }
 .hover:hover {
-  background-color: #cfb995;
+  background-color: #fff;
   border: 1px solid #cfb995;
   text-align: justify;
         }
